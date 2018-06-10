@@ -1,6 +1,8 @@
 # init7-fiber7-tv7-convert-m3u-to-udpxy
 Downloads the current Init7 Fiber7 TV7 multicast IPTV channel list in m3u format and converts it for using it with a udpxy enabled unicast server in the LAN
 
+By using a unicast "proxy" you can stream IPTV to devices connected to your WLAN (e.g. iPhone, iPad).
+
 # Requirements
 * Linux server in LAN
 * wget installed on Linux server
